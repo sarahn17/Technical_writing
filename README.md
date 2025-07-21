@@ -140,4 +140,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Would you like me to help you **write a sample README** for one of your projects?
